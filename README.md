@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# WorkIn
+No CVs, no spam — just learning, progress, and real hiring.
+=======
+>>>>>>> 4e834ef
 # WorkIn - Professional Skills & Verified Hiring Platform 🚀
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.76-blue.svg)](https://reactnative.dev/)
@@ -261,3 +268,7 @@ For support and questions:
 ---
 
 **SkillNet** - Bridging the gap between learning and hiring through verified skills and meaningful connections.
+<<<<<<< HEAD
+=======
+>>>>>>> 6a13641 (🎉 WorkIn Platform - Initial commit)
+>>>>>>> 4e834ef
